@@ -1,6 +1,6 @@
 # Tino Musikavanhu — Full-Stack Builder & Systems Thinker
 
-📍 Wylie, Texas | 🧬 Neurotech / bioMEMS trajectory
+📍 Boston | 🧬 Neurotech / bioMEMS trajectory
 
 ---
 
@@ -24,7 +24,7 @@ DevOps      → Vercel, Netlify, GitHub Actions
 
 ## Currently
 
-- 🧬 Studying neurotech (Collin College → Harvard Extension)
+- 🧬 Studying neurotech 
 - 🤖 Building AI automation for local trade businesses
 - ♿ Exploring accessibility technology (search/ABLE)
 - 🍽️ Scaling HarmonyFlow for community food access
