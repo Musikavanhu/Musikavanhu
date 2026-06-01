@@ -8,7 +8,7 @@
 
 | Project | Stack | What It Does |
 |---------|-------|-------------|
-| **HarmonyFlow** | React, Firebase, Stripe | Community food access platform — volunteer management, donations, partnerships |
+| **HarmonyFlow** | React, Firebase, Stripe | Community food access platform — volunteer mgmt, donations, partnerships |
 | **biomems-neural-interface-simulator** | Python | BioMEMS neural interface simulation |
 | **DrewAi** | AI agents | AI automation for local trade businesses |
 | **Two-Stage-Neural-Architecture** | — | Neural architecture research |
