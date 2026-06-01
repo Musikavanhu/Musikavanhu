@@ -10,8 +10,8 @@ I build systems at the intersection of technology, human coordination, and real-
 
 | Project | Stack | What It Does |
 |---------|-------|-------------|
-| HarmonyFlow | React, Firebase, Stripe | Community food access platform for volunteer coordination, donations, and nonprofit partnerships. Built with authentication, payment processing, admin dashboards, and distribution workflows. Live Demo |
-| DrewAI | AI agents, automation | AI automation platform for local trade businesses — operational workflows, lead handling, and business automation systems. Demo |
+| HarmonyFlow | React, Firebase, Stripe | Community food access platform for volunteer coordination, donations, and nonprofit partnerships. Built with authentication, payment processing, admin dashboards, and distribution workflows. Live: https://harmony-flow.com/auth/default |
+| DrewAI | AI agents, automation | AI automation platform for local trade businesses — operational workflows, lead handling, and business automation systems. Demo:https://drewai.netlify.app/ |
 | biomems-neural-interface-simulator | Python | Experimental BioMEMS neural interface simulation and neurotechnology exploration. |
 | Two-Stage-Neural-Architecture | Research | Neural systems architecture research exploring layered decision-making and computational intelligence. |
 
