@@ -19,7 +19,7 @@ I build systems at the intersection of technology, human coordination, and real-
 
 ## Tech Stack
 
-txt Frontend    → React, HTML5, JavaScript Backend     → Firebase, Supabase, PostgreSQL AI / ML     → Python, AI agents, neural architectures DevOps      → Vercel, Netlify, GitHub Actions 
+ Frontend    → React, HTML5, JavaScript Backend     → Firebase, Supabase, PostgreSQL AI / ML     → Python, AI agents, neural architectures DevOps      → Vercel, Netlify, GitHub Actions 
 
 ---
 
