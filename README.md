@@ -1,4 +1,4 @@
-# Tino Musikavanhu — Full-Stack Builder & Systems Thinker
+# Tino Musikavanhu — Full-Stack Developer & Systems Thinker
 
 📍 Boston | 🧬 Computing × Neurotechnology
 
