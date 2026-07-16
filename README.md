@@ -44,4 +44,4 @@ I write about systems, technology, society, and emerging ideas.
 
 > “The food is necessary. The way you hand it to them is the politics.”
 
-I build products that serve real people — not side projects that live in ~/dev/null.
+I like building projects that serve real people 
